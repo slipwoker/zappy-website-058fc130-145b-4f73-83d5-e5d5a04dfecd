@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uvc-smart-058fc130.zappy5.app/sitemap.xml
